@@ -1,0 +1,8 @@
+url:http://www.alicebot.org
+name:Alice
+email:callmom-info@pandorabots.com
+gender:female
+botmaster:Dr. Richard S. Wallace
+organization:ALICE AI Foundation
+version:0.0.4
+

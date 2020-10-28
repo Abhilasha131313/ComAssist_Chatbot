@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+	<category>
+	    <pattern>WHAT IS COMVIVA
+	    </pattern>
+        <template>Comviva is a global leader in mobile solutions offering digital VAS, mobile finance and customer management solutions for telecom operators.
+        It offers services like mobile Internet, content, mobile commerce and business support solutions.
+        </template>
+	</category>
+	<category> 
+  <pattern>what's Comviva</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template> 
+</category> 
+    <category> 
+  <pattern>Do you know about Comviva</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template> 
+</category> 
+<category>
+  <pattern>Do you know Comviva</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template>
+ </category>
+<category> 
+  <pattern>Do you know something about Comviva</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template> 
+</category> 
+<category> 
+  <pattern>* about * comviva *</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template> 
+</category> 
+<category> 
+  <pattern>Define Comviva</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template> 
+</category> 
+<category>
+<pattern>Explain Comviva</pattern> 
+  <template><srai>WHAT IS COMVIVA</srai></template> 
+</category> 
+	
+</aiml>

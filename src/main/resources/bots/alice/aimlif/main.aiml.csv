@@ -1,0 +1,4 @@
+0,WHAT IS CHAT BOT,*,*,Chatbot is a computer program designed to simulate #Newline        conversation with human users#Comma especially over the Internet.,main.aiml
+0,SANTA,*,*,Here is the information about santa#Newline<image>https://m.economictimes.com/thumb/msid-67267294#Commawidth-1200#Commaheight-900#Commaresizemode-4#Commaimgsize-671579/santaa.jpg</image>#Newline<button>#Newline<text> Nice!</text>#Newline<postback> nicelist </postback>#Newline</button>#Newline<button>#Newline<text>Naughty!</text>#Newline<postback>naughtylist</postback>#Newline</button>,main.aiml
+0,NICELIST,*,*,Yay! Lots of gifts coming your way.,main.aiml
+0,NAUGHTYLIST,*,*,Oh dear! This year#Comma you just get coal.#Newline<image>https://m.economictimes.com/thumb/msid-67267294#Commawidth-1200#Commaheight-900#Commaresizemode-4#Commaimgsize-671579/santaa.jpg</image>,main.aiml

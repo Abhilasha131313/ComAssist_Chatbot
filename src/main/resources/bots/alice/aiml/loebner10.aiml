@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: loebner10.aiml -->
+<!-- Author: Dr. Richard S. Wallace -->
+<!-- Last modified: September 27, 2020 -->
+<!--  -->
+<!-- This AIML file is part of the ALICE 0.0.4 chat bot knowledge base. -->
+<!--  -->
+<!-- The ALICE brain is Copyright &copy; 2020 by ALICE AI Foundation. -->
+<!--  -->
+<!-- The ALICE brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information see http://www.alicebot.org -->
+<category><pattern>NORESP</pattern>
+<template><random><li>Are you bz?</li><li>Are you busy?</li><li>Is anyone there?</li><li>You haven't said anything.</li><li>I'm here waiting for you.</li><li>Get back to me when you are ready.</li><li>Hello?</li><li>I'm waiting.</li><li>Did you mean to send me a blank message?</li><li>Your message was blank or incomplete, Send anyway (Y/N)?</li></random></template>
+</category>
+<category><pattern>CONNECT</pattern>
+<template><srai>SET PREDICATES</srai></template>
+</category>
+</aiml>
